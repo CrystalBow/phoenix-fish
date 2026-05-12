@@ -104,3 +104,16 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# --- Obsidian Stuff ---
+
+# Status Items
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+**/.obsidian/graph.json
+**/.obsidian/appearance.json
+
+# OS clutter
+**/.obsidian/.trash/
+**/.DS_Store
+**/Thumbs.db
